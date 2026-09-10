@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Arafat Rohman 👋
 
-<!--
-**arafatrohman412/arafatrohman412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👑 I am a passionate Web Developer...
+- 👀 I'm interested in always learning new technologies and web development.
+- 🌱 I’m currently exploring and learning exciting new aspects of web development.
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me: arafatrohman412@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+I am a dedicated developer focused on creating clean, efficient, and user-friendly software solutions. Always eager to learn new technologies and improve my skills through hands-on experience.
+
+
+
+👨‍💻 Skills & Experiance:
+
+✅ JavaScript
+
+✅ PHP
+
+✅ React
+
+✅ Laravel
+
+✅ Tailwindcss
+
+✅ HTML5 / CSS3 / SASS / Bootstrap
