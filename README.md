@@ -17,11 +17,11 @@ I am a dedicated developer focused on creating clean, efficient, and user-friend
 
 ✅ JavaScript
 
-✅ PHP
-
 ✅ React
 
-✅ Laravel
+✅ Next JS
+
+✅ PostgreSQL
 
 ✅ Tailwindcss
 
